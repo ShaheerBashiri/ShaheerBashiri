@@ -16,7 +16,7 @@ Ich habe crosshair placement gelernt und auch mein aim verbessert.
  Ich wurde besser im Spiel, indem ich professionellen Spielern beim Spiel zusah und dann das tat, was sie gemacht hatten.
  Ich habe meine Crosshair Placement und mein Aim verbessert, indem ich ein Programm namens Aim Lab verwendet habe.
 ![Crosshair placement](https://cdn.sanity.io/images/ccckgjf9/production/fb6507c971a41ee9dd218dcd6d2f39ae4ac23cbc-1920x1080.jpg?max-h=1080&max-w=1920&fit=scale&auto=format)
-[![yt](https://www.youtube.com/watch?v=nXz_pllergg)
+https://user-images.githubusercontent.com/111045708/185333430-9eadad3e-e49b-409d-aa0d-a36f7cb8f0ed.mp4
 
 
 ## Verifikation
