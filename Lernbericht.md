@@ -11,7 +11,6 @@ Ich habe crosshair placement gelernt und auch mein aim verbessert.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
  Ich wurde besser im Spiel, indem ich professionellen Spielern beim Spiel zusah und dann das tat, was sie gemacht hatten.
  Ich habe meine Crosshair Placement und mein Aim verbessert, indem ich ein Programm namens Aim Lab verwendet habe.
