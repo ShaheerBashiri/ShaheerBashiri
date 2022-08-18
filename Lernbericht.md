@@ -20,7 +20,7 @@ Ich habe crosshair placement gelernt und auch mein aim verbessert.
 
 ## Verifikation
 
-Ich habe gelernt, dass die Crosshair Place Sie zu einem viel besseren Spieler machen kann, wenn Sie es richtig anwenden.
+Ich habe gelernt, dass die Crosshair Placement Sie zu einem viel besseren Spieler machen kann, wenn Sie es richtig anwenden.
 
 # Reflektion zum Arbeitsprozess
 
