@@ -25,8 +25,6 @@ Ich habe crosshair placement gelernt und auch mein aim verbessert.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Alles lief gut, aber ich hatte ein Problem mit dem Einfügen eines Videos. Was ich getan habe, um das Problem zu beheben, war, ein Bild des Videos einzufügen und es zu einem anklickbaren Link zu machen
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich denke, die Verwendung von Websites, die eine Vorschau von Videos wie imgur anzeigen, hätte mein Problem gelöst, und ich werde es das nächste Mal verwenden.
